@@ -14,7 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url']	= 'http://www.goforeat.in/';
+$config['base_url']	= 'http://eat.dev/';
 
 /*
 |--------------------------------------------------------------------------

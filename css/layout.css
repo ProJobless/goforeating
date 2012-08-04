@@ -345,8 +345,7 @@ header .container_12 {
 }
 
 .input-text:hover {
-    box-shadow: 0 0 4px #FDFC68;
-    border: #FDFC69 1px solid;
+    box-shadow: 0 0 4px #ddfdf5;
 }
 
 .input-textarea {
@@ -359,8 +358,7 @@ header .container_12 {
 }
 
 .input-textarea:hover {
-    box-shadow: 0 0 4px #FDFC68;
-    border: #FDFC69 1px solid;
+    box-shadow: 0 0 4px #ddfdf5;
 }
 
 .white-bg-round {
@@ -383,6 +381,31 @@ header .container_12 {
     padding-left: 10px;
     padding-bottom: 5px;
     margin: 10px 5px;
+}
+
+.map {
+    background: url(/images/location-arrow.png) no-repeat;
+    padding-left: 30px;
+}
+
+.gift {
+    background: url(/images/gift.png) no-repeat 4px 0px;
+    padding-left: 30px;
+}
+
+.people {
+    background: url(/images/people.png) no-repeat 4px 0px;
+    padding-left: 30px;
+}
+
+.gear {
+    background: url(/images/gear.png) no-repeat 4px 0px;
+    padding-left: 30px;
+}
+
+.group {
+    background: url(/images/group.png) no-repeat 4px 0px;
+    padding-left: 40px;
 }
 
 .add-h3 {

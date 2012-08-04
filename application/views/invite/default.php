@@ -1,7 +1,7 @@
 <div class="invite-style">
     <div class="grid_8">
         <div class="white-bg-round min-height-200">
-			<h2 class="add-h2"><?php echo $title;?></h2>
+			<h2 class="add-h2 group"><?php echo $title;?></h2>
 			<p style="margin: 15px;">>> 邀请码数量: <strong style="font-size: 18px; color: orange"><?php echo $code_num;?></strong></p>        
         <?php if($codes) :?>
         <ul style="list-style: none;">

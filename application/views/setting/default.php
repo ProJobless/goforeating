@@ -1,7 +1,7 @@
 <div class="setting-style">
 	<div class="grid_8">
 		<div class="white-bg-round min-height-200">
-			<h2 class="add-h2">个人资料设置</h2>
+			<h2 class="add-h2 gear">个人资料设置</h2>
 			<?php echo form_open_multipart('setting/index');?>
 			<table>
 				<tr>

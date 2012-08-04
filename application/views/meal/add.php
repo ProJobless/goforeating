@@ -1,7 +1,7 @@
 <div class="add-style">
 	<div class="grid_8">
 		<div class="add-left white-bg-round min-height-200">
-			<h2 class="add-h2">一起去吃饭吧</h2>
+			<h2 class="add-h2 gift">一起去吃饭吧</h2>
 			<?php echo form_open('meal/add');?>
 			<table>
 				<tr>
@@ -73,7 +73,7 @@
 	</div>
 	<div class="grid_4">
 		<div class="add-right white-bg-round" style="height: 250px;">
-			<h2 class="add-h2">地图</h2>
+			<h2 class="add-h2 map">地图</h2>
 			<div id="map_canvas"></div>
 		</div>
 	</div>

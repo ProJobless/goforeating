@@ -173,7 +173,7 @@
 	</div>
 	<div class="grid_4 right">
 		<div class="white-bg-round min-height-200">
-			<h2 class="add-h2"><?php echo $user->name;?></h2>
+			<h2 class="add-h2 people"><?php echo $user->name;?></h2>
 			<div class="photo">
 				<img src="/assets/user_photos/<?php echo str_replace('.', '_100_thumb.', $user->photo);?>" alt="" />
 				<br />
